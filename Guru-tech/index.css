@@ -1,0 +1,28 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(227, 137, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: 25px;
+    align-items: center;
+    padding: 12px;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.center {
+    text-align: center;
+}
